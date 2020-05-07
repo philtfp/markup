@@ -117,6 +117,19 @@ body {
  
  }
 
+ .footer-text, .mail-link{
+     color:#5F5D58;
+     text-decoration:none;
+     margin-top:10px;
+     font-family: 'Amatic SC', cursive;
+     font-size:20px;
+ }
+ .mail-link:hover {
+    color:blue;
+    text-decoration:none;
+    margin-top:10px;
+}
+
 @media (max-width:1024px) {
     .contact-info {
         width:100%; 
